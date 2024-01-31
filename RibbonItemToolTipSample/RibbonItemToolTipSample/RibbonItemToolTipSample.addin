@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>RibbonItemToolTipSample</Name>
+    <Assembly>RibbonItemToolTipSample.dll</Assembly>
+    <AddInId>DFE4E58E-6B68-4809-AC39-EE3B166AB767</AddInId>
+    <FullClassName>SCADtools.RibbonItemToolTipSample.ExternalApplication</FullClassName>
+    <VendorId>SCADtools</VendorId>
+    <VendorDescription>SCADtools, www.scadtools.cl</VendorDescription>
+  </AddIn>
+</RevitAddIns>

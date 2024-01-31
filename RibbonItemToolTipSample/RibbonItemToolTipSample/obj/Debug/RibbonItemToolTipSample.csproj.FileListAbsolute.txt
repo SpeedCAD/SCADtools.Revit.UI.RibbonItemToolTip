@@ -1,0 +1,11 @@
+C:\Users\elias\OneDrive\Escritorio\Curso Revit API\Ejercicios\AlphaRebar\Revit\RibbonItemToolTipSample\RibbonItemToolTipSample\bin\Debug\RibbonItemToolTipSample.addin
+C:\Users\elias\OneDrive\Escritorio\Curso Revit API\Ejercicios\AlphaRebar\Revit\RibbonItemToolTipSample\RibbonItemToolTipSample\bin\Debug\RibbonItemToolTipSample.dll
+C:\Users\elias\OneDrive\Escritorio\Curso Revit API\Ejercicios\AlphaRebar\Revit\RibbonItemToolTipSample\RibbonItemToolTipSample\bin\Debug\RibbonItemToolTipSample.pdb
+C:\Users\elias\OneDrive\Escritorio\Curso Revit API\Ejercicios\AlphaRebar\Revit\RibbonItemToolTipSample\RibbonItemToolTipSample\bin\Debug\SCADtools.Revit.UI.RibbonItemToolTip.dll
+C:\Users\elias\OneDrive\Escritorio\Curso Revit API\Ejercicios\AlphaRebar\Revit\RibbonItemToolTipSample\RibbonItemToolTipSample\bin\Debug\SCADtools.Revit.UI.RibbonItemToolTip.pdb
+C:\Users\elias\OneDrive\Escritorio\Curso Revit API\Ejercicios\AlphaRebar\Revit\RibbonItemToolTipSample\RibbonItemToolTipSample\obj\Debug\RibbonItemToolTipSample.csproj.AssemblyReference.cache
+C:\Users\elias\OneDrive\Escritorio\Curso Revit API\Ejercicios\AlphaRebar\Revit\RibbonItemToolTipSample\RibbonItemToolTipSample\obj\Debug\RibbonItemToolTipSample.g.resources
+C:\Users\elias\OneDrive\Escritorio\Curso Revit API\Ejercicios\AlphaRebar\Revit\RibbonItemToolTipSample\RibbonItemToolTipSample\obj\Debug\RibbonItemToolTipSample.csproj.CoreCompileInputs.cache
+C:\Users\elias\OneDrive\Escritorio\Curso Revit API\Ejercicios\AlphaRebar\Revit\RibbonItemToolTipSample\RibbonItemToolTipSample\obj\Debug\RibbonItemToolTipSample.csproj.CopyComplete
+C:\Users\elias\OneDrive\Escritorio\Curso Revit API\Ejercicios\AlphaRebar\Revit\RibbonItemToolTipSample\RibbonItemToolTipSample\obj\Debug\RibbonItemToolTipSample.dll
+C:\Users\elias\OneDrive\Escritorio\Curso Revit API\Ejercicios\AlphaRebar\Revit\RibbonItemToolTipSample\RibbonItemToolTipSample\obj\Debug\RibbonItemToolTipSample.pdb
